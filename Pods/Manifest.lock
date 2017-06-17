@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Kingfisher (3.1.4)
+  - NVActivityIndicatorView (3.6.1)
+  - ProtocolBuffers-Swift (3.0.13)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.1)
+  - Kingfisher (~> 3.1.1)
+  - NVActivityIndicatorView
+  - ProtocolBuffers-Swift
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Kingfisher: 6c67e3e57f2d81a9cfdfa25052cd86f33ceac9bb
+  NVActivityIndicatorView: 9f52a7f84bf5c6a798722c450fe3c198e01c56ed
+  ProtocolBuffers-Swift: b1962dbfbd2ccb61b57d6a1825cddf6a03c0dd09
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 9bbcd640466f6d325f90184b505d8f1c93a713fe
+
+COCOAPODS: 1.1.1
